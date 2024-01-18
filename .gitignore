@@ -1,6 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,composer,vim
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,visualstudiocode,composer,vim
-
+### User settings ###
+/config/
 ### Composer ###
 composer.phar
 /vendor/
